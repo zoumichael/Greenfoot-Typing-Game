@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TargetLetter
+comment0.text=\r\n\ The\ letters\ that\ will\ be\ displayed\ that\ the\ user\ must\ type.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ March\ 10,\ 2018\r\n
+comment1.params=display
+comment1.target=TargetLetter(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TargetLetter,\ initializes\ the\ letterDisplay\ based\ on\ parameter.\r\n\ \r\n\ @params\:\ display\ \ the\ letter\ that\ will\ be\ displyed\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=letter\ correct
+comment3.target=void\ setImage(java.lang.String,\ boolean)
+comment3.text=\r\n\ Method\ that\ checks\ to\ see\ if\ the\ user\ input\ is\ correct;\ it\ will\ find\ the\ file\ that\ corresponds\ \r\n\ with\ the\ letter\ inputed\ and\ sets\ the\ image\ depending\ if\ the\ user\ inputed\ correctly\ or\ not\r\n\ \r\n\ @param\ letter\ \ \ \ a\ string\ that\ holds\ the\ value\ of\ a\ letter\r\n\ @param\ correct\ \ \ a\ boolean\ that\ will\ tell\ the\ method\ if\ the\ user\ input\ is\ correct\ or\ wrong\r\n
+numComments=4

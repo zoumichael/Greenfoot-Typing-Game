@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Projectile
+comment0.text=\r\n\ Superclass\ of\ all\ Projectiles\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ April\ 5,\ 2016\r\n
+comment1.params=
+comment1.target=Projectile()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Projectiles,\ initializes\ the\ lockedOn\ variable.\r\n
+comment2.params=
+comment2.target=void\ turnTowardsEnemy()
+comment2.text=\r\n\ Method\ that\ turns\ the\ projectile\ towards\ the\ closets\ enemy.\r\n
+comment3.params=
+comment3.target=void\ remove()
+comment3.text=\r\n\ Method\ that\ checks\ if\ the\ projectile\ should\ be\ removed\ from\ the\ world.\ \r\n\ Remove\ this\ object\ if\ its\ out\ of\ bounds\ or\ comes\ into\ contact\ with\ an\r\n\ enemy.\r\n
+numComments=4

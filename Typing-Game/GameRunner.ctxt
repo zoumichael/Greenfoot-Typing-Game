@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GameRunner
+comment0.text=\r\n\ An\ object\ that\ creates\ words/rounds\ if\ the\ current\ word\ has\ been\ typed.\r\n\ \r\n\ @author\ Michael\ Zou\ \ \r\n\ @version\ March\ 15,\ 2018\r\n
+comment1.params=
+comment1.target=GameRunner()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameRunner,\ initializes\ numWords\ to\ zero.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ RoundManager\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GameStats
+comment0.text=\r\n\ Class\ that\ stores\ score-related\ information.\ Health,\ number\ of\ zombies\ killed,\ and\ score.\ \r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ April\ 4,\ 2018\r\n
+comment1.params=h\ z\ s
+comment1.target=GameStats(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ GameStats\r\n\ \r\n\ @param\ \ h\ \ \ \ \ \ a\ int\ value\ that\ represents\ the\ health\ of\ the\ player\r\n\ @param\ \ z\ \ \ \ \ \ a\ int\ value\ that\ represents\ the\ number\ of\ zombies\ that\ the\ player\ has\ killed\r\n\ @param\ \ s\ \ \ \ \ \ a\ int\ value\ that\ represents\ the\ score\r\n
+comment2.params=
+comment2.target=int\ getHealth()
+comment2.text=\r\n\ Accessor\ method\ for\ the\ 'health'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ health\ variable\r\n
+comment3.params=
+comment3.target=int\ getZombiesKilled()
+comment3.text=\r\n\ Accessor\ method\ for\ the\ 'numZombiesKilled'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ numZombiesKilled\ variable\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ Accessor\ method\ for\ the\ 'score'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ score\ variable\r\n
+comment5.params=h
+comment5.target=void\ setHealth(int)
+comment5.text=\r\n\ Mutator\ method\ for\ the\ 'health'\ variable.\r\n\ \r\n\ @param\ \ h\ \ \ \ the\ new\ value\ of\ variable\ health\r\n
+comment6.params=s
+comment6.target=void\ setScore(int)
+comment6.text=\r\n\ Mutator\ method\ for\ the\ 'score'\ variable.\r\n\ \r\n\ @param\ \ h\ \ \ \ the\ new\ value\ of\ variable\ score\r\n
+comment7.params=z
+comment7.target=void\ setZombieKilled(int)
+comment7.text=\r\n\ Mutator\ method\ for\ the\ 'numZombiesKilled'\ variable.\r\n\ \r\n\ @param\ \ h\ \ \ \ the\ new\ value\ of\ variable\ numZombiesKilled\r\n
+numComments=8

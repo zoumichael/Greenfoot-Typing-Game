@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ScoreDisplay
+comment0.text=\r\n\ Object\ that\ displays\ the\ score.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ April\ 4,\ 2018\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

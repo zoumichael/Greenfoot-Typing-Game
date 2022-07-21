@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PistolBullet
+comment0.text=\r\n\ The\ "Standard"\ bullet\ that\ is\ created,\ enough\ to\ 2HKO\ normal\ zombies.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ April\ 5,\ 2018\r\n
+comment1.params=
+comment1.target=PistolBullet()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PistolBullet,\ initializes\ the\ damage.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ PistolBullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

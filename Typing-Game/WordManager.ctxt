@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WordManager
+comment0.text=\r\n\ A\ object\ that\ is\ created\ for\ each\ specific\ word,\ this\ object\ displays\ the\ letters,\ checks\r\n\ user\ input,\ and\ removes\ itself\ once\ the\ word\ has\ been\ typed\ out.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ March\ 26,\ 2018\r\n
+comment1.params=medium\ hard
+comment1.target=WordManager(boolean,\ boolean)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ WordManager,\ initializes\ the\ word\ variable\ based\ on\ parameters.\r\n\ Chooses\ the\ word\ variable\ based\ on\ difficulty,\ decided\ by\ the\ parameters.\r\n\ \r\n\ @param\ \ medium\ \ \ a\ boolean\ that\ specifics\ if\ medium\ words\ are\ included\ in\ the\ word\ pool\r\n\ @param\ \ hard\ \ \ a\ boolean\ that\ specifics\ if\ hard\ words\ are\ included\ in\ the\ word\ pool\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ GameRunner\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ displayTargetWord()
+comment3.text=\r\n\ Method\ that\ displays\ the\ target\ word\ at\ the\ beginning\ of\ the\ round.\r\n
+numComments=4

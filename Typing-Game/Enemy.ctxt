@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ The\ superclass\ for\ all\ Enemys.\ Contains\ the\ variables\ and\ methods\ shared\ by\ all\ Enemys.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ April\ 3,\ 2018\r\n
+comment1.params=
+comment1.target=Enemy()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Enemy,\ initializes\ the\ speed,\ damage\ and\ health\ of\ the\ enemy.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemys\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ turnTowardsPlayer()
+comment3.text=\r\n\ Method\ that\ turns\ the\ enemy\ towards\ the\ player.\r\n
+comment4.params=
+comment4.target=void\ checkTouching()
+comment4.text=\r\n\ Method\ that\ checks\ if\ the\ enemy\ is\ touching\ the\ player,\ if\ it\ is,\ change\ the\ touching\ player\ to\ true.\r\n
+comment5.params=d
+comment5.target=void\ takeDamage(int)
+numComments=6
